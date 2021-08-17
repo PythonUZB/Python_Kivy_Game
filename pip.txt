@@ -1,4 +1,8 @@
 
+
+pip install kivy #agar o'rnatishda muammo bo'lsa qolgan buyruqlarni bajaring Agar muammo bo'lmasa boshqa buyruqlarni o'rnatmang!
+
+
 pip install --upgrage pip wheel
 pip install docutils pygment pypiwin32 kivy.deps.glew
 pip install kivy.deps.gstreamer
